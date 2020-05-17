@@ -1,0 +1,9 @@
+{
+  "heartbeat": true,
+  "PORT": "3000",
+  "databaseSettings": {
+    "mongoUri": "mongodb://localhost/",
+    "db": "blackjack"
+  },
+  "url":"http://localhost:3000"
+}
